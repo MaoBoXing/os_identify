@@ -1,3 +1,7 @@
+# 操作系统识别方法
+
+该系统可有效区分windows及linux系统，其他系统未适用
+
 Windows请使用以下命令安装python所需模块：
 
 	pip3 import scapy
